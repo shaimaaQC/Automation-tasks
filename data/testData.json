@@ -3,8 +3,8 @@
 
 "Login" : {
   "ValidCredentials" : {
-    "Username" : "Omar",
-    "Password" : "123"
+    "Username" : "email@emails.com",
+    "Password" : "123456"
   },
   "InvalidCredentials" : {
     "InvalidUsername":{
